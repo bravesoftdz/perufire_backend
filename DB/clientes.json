@@ -1,0 +1,10 @@
+{"_id":{"$oid":"5d5196641eb3fd299e893089"},"nombre":"Diego","apellido":"Ortega","empresa":"Rhaegar Code","email":"rhaegarcode@gmail.com","telefono":"930465230","__v":0}
+{"_id":{"$oid":"5d5196ee76b5b229aa51020b"},"nombre":"Melanie","apellido":"Ortega","empresa":"Security","email":"melanie@gmail.com","telefono":"934567890","__v":0}
+{"_id":{"$oid":"5d519836a52ae629caa665ab"},"nombre":"Samuel","apellido":"Ortega","empresa":"Uefa","email":"samuel@gmail.com","telefono":"934561234","__v":0}
+{"_id":{"$oid":"5d520d430467183fb1261165"},"nombre":"Rosamaria","apellido":"Gonzales Garcia","empresa":"Psicology","telefono":"987654543","email":"rosamaria@gmail.com","__v":0}
+{"_id":{"$oid":"5d5213a5db138341017caae2"},"nombre":"Junior","apellido":"Medrano Ramirez","empresa":"Recsa","telefono":"978654223","email":"juniormedrano@gmail.com","__v":0}
+{"_id":{"$oid":"5d53967098512a6252ade537"},"nombre":"Jesús","apellido":"Gil Vargas","empresa":"Mercado","telefono":"976854332","email":"jesus@gmail.com","__v":0}
+{"_id":{"$oid":"5d5396e2e17e49626e72322f"},"nombre":"Marielena","apellido":"Elmer Mejia","empresa":"Maricorp","telefono":"967584338","email":"mariaelena@gmail.com","__v":0}
+{"_id":{"$oid":"5d5a0840802b7e1095d5368c"},"nombre":"Juan","apellido":"Rivera Llontop","empresa":"Llontops","telefono":"976856743","email":"juacito@hotmail.com","__v":0}
+{"_id":{"$oid":"5d5a0933802b7e1095d5368d"},"nombre":"Luis","apellido":"Cutisaca","empresa":"Regeiser","telefono":"976453432","email":"enriquecutisaca@gmail.com","__v":0}
+{"_id":{"$oid":"5d5a09a091143510f5d40dab"},"nombre":"Carol","apellido":"Valderrama","empresa":"Ambiente SAC","telefono":"965453325","email":"carito@gmail.com","__v":0}
