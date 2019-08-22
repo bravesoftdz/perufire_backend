@@ -22,7 +22,7 @@ module.exports = function() {
             clienteController.nuevoCliente);
     // Obtenemos los clientes via GET
     router.get('/clientes',
-            // auth,
+            auth,
             clienteController.obtenerClientes);
     // Se obtiene un cliente por el ID via GET
     router.get('/clientes/:idCliente',
@@ -42,7 +42,7 @@ module.exports = function() {
 
     // Agregamos nuevos productos via POST
     router.post('/nuevo/producto',
-            auth,
+            //auth
             productoController.subirArchivo,productoController.nuevoProducto);
     // Muestra todos los productos via GET
     router.get('/productos',
@@ -69,7 +69,7 @@ module.exports = function() {
 
     // Agregamos nuevos obras via POST
     router.post('/nuevo/obra/:idUsuario',
-            auth,
+            //auth
             obraController.nuevoObra);
     // Muestra todos los obras via GET
     router.get('/obras',

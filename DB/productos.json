@@ -1,6 +1,0 @@
-{"_id":{"$oid":"5d531449afa8544e28158f57"},"codigo":"C-9999","producto":"Puerta contraincendios","resistencia":"20h","obraProducto":"BBVA","imagen":"puerta1.jpg","__v":0}
-{"_id":{"$oid":"5d531471afa8544e28158f58"},"codigo":"C-9998","producto":"Puerta contraincendio fuegito","resistencia":"30h","obraProducto":"BBVA","imagen":"puerta2.jpg","__v":0}
-{"_id":{"$oid":"5d5314a5afa8544e28158f59"},"codigo":"C-9997","producto":"Puerta fuego alto","resistencia":"20h","obraProducto":"BBVA","imagen":"puerta3.jpg","__v":0}
-{"_id":{"$oid":"5d5314b5afa8544e28158f5a"},"codigo":"C-9996","producto":"Puerta fuego bajo","resistencia":"20h","obraProducto":"BBVA","imagen":"puerta4.jpeg","__v":0}
-{"_id":{"$oid":"5d5314c5afa8544e28158f5b"},"codigo":"C-9995","producto":"Puerta fuego mediano","resistencia":"20h","obraProducto":"BBVA","imagen":"puerta5.jpg","__v":0}
-{"_id":{"$oid":"5d53848a6960975efb0c9e4c"},"codigo":"C-9994","producto":"Puerta contraincendio","resistencia":"20h","obraProducto":"BBVA","imagen":"puerta6.jpg","__v":0}
