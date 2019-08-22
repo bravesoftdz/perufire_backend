@@ -13,7 +13,8 @@ mongoose.connect(process.env.DB_URL,{
     useNewUrlParser: true
 }).then(db => console.log('Conectado a MongoDB')).catch(error => console.log(error))
 
-app.set('port',process.env.PORT || 5000);
+// Carpetas Estaticas
+app.use(express.static('public/uploads'));  
 
 // Habilito JSON
 app.use(express.json());
@@ -37,9 +38,6 @@ app.use(cors(corsOption));
 
 // Rutas de la app
 app.use('/',routes())
-
-// Carpetas Estaticas
-app.use(express.static('public/uploads'));  
 
 const host = process.env.HOST || '0.0.0.0';
 const port = process.env.PORT || 5000;
